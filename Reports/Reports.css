@@ -2,7 +2,7 @@ body{
     /* height: 100%;
     width: 100%; */
     background-image: url(../Images/Report\ bcg.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 
